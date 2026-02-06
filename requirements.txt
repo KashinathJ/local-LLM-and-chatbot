@@ -1,0 +1,9 @@
+# Recipe Intelligence Chatbot - Dependencies
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+streamlit>=1.29.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+pydantic>=2.5.0
+requests>=2.31.0
